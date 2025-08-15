@@ -20,3 +20,4 @@ This app contains project convention to be used as reference for AI coders.
 
 * JUnit Parameterized Test
 * Selenium Web Driver
+* Jacoco Coverage Test
